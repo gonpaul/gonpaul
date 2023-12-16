@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @gonpaul
 - 👀 I’m interested in lifelong learning and applying gained knowledge
 - 🌱 I’m currently learning data structures and algorithms
-- 💞️ I’m looking to collaborate on anything that challeges me to learn new stuff
+- 💞️ I’m looking to collaborate on anything that challenges me to learn new stuff
 - 📫 How to reach me -> gmail
 
 <!---
