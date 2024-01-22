@@ -8,7 +8,7 @@ I've been coding for closely 2 years, and in the past year, I got interested in 
 
 * 🌍  I'm based in Saint Petersburg
 * 🖥️  See my portfolio at [MyPortfolio](http://gonpaul-portfolio.onrender.com/)
-* ✉️  You can contact me at [pavelgoncharov56@gmail.com](mailto:)
+* ✉️  You can contact me at [a](mailto:)
 * 🧠  I'm learning Redux
 * 🤝  I'm open to collaborating on projects
 * ⚡  Trying to build new habits and get better!!!
