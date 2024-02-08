@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Web Developer
 -------------
 
-I've been coding for closely 2 years, and in the past year, I got interested in building full-stack web applications. I aim to become a software engineer with a profound understanding of creating efficient and high-performing solutions.
+I've been coding for nearly 2 years, and in the past year, I got interested in building full-stack web applications. I aim to become a software engineer with a profound understanding of creating efficient and high-performing solutions.
 
 * 🌍  I'm based in Saint Petersburg
 * 🖥️  See my portfolio at [MyPortfolio](http://gonpaul-portfolio.onrender.com/)
